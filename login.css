@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.login-img {
+  position: absolute;
+  top: 100px;
+  margin-left: 100px;
+}
+.details h2 {
+  position: absolute;
+  height: 38px;
+  width: 87px;
+  margin-left: 800px;
+  top: 120px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 120%;
+  color: #1c1c1e;
+}
+.details p1 {
+  position: absolute;
+  height: 19px;
+  width: 240px;
+  margin-left: 800px;
+  top: 165px;
+  color: #8e8e93;
+}
+.details p2 {
+  position: absolute;
+  font-weight: 400;
+  font-size: 16px;
+  height: 19px;
+  line-height: 120%;
+  margin-left: 800px;
+  top: 210px;
+}
+.details b {
+  color: red;
+}
+.details input {
+  position: absolute;
+  margin-left: 800px;
+  top: 240px;
+  padding: 10px;
+  padding-right: 150px;
+  border-radius: 5px;
+  color: grey;
+  border-color: grey;
+}
+.details p3 {
+  position: absolute;
+  font-weight: 400;
+  font-size: 16px;
+  height: 19px;
+  line-height: 120%;
+  margin-left: 800px;
+  top: 300px;
+}
+.password input {
+  position: absolute;
+  top: 330px;
+  padding: 10px;
+  padding-right: 150px;
+  border-radius: 5px;
+  color: grey;
+  border-color: grey;
+}
+.login-btn {
+  position: absolute;
+  margin-left: 800px;
+  top: 400px;
+}
+.login-btn button {
+  padding: 16px;
+
+  padding-right: 305px;
+
+  text-align: center;
+  border-radius: 100px;
+  background-color: #f3bd00;
+  border-color: #f3bd00;
+  cursor: pointer;
+}
+.login-btn p {
+  position: absolute;
+  top: 10px;
+  left: 145px;
+}
+.google-btn {
+  position: absolute;
+  margin-left: 800px;
+  top: 480px;
+}
+.google-btn button {
+  padding: 20px;
+  padding-right: 305px;
+  border-radius: 5px;
+  background-color: white;
+  border-color: white;
+  filter: drop-shadow(10px 10px 7px rgba(0, 0, 0, 0.6));
+  cursor: pointer;
+}
+.google-btn p {
+  position: absolute;
+  top: 15px;
+  left: 100px;
+}
+.google-btn img {
+  position: absolute;
+  top: 9px;
+  left: 60px;
+}
+.sign-up p {
+  position: absolute;
+  margin-left: 800px;
+  top: 560px;
+  left: 50px;
+  font-size: 16px;
+  font-weight: 400;
+  color: grey;
+}
+.sign-up a {
+  color: blue;
+  cursor: pointer;
+}
