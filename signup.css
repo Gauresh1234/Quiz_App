@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .signup-img {
+    position: absolute;
+    top: 100px;
+    margin-left: 100px;
+  }
+  .details h2 {
+    position: absolute;
+    height: 38px;
+    width: 200px;
+    margin-left: 800px;
+    top: 90px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 120%;
+    color: #1c1c1e;
+  }
+  .details p1 {
+    position: absolute;
+    height: 19px;
+    width: 240px;
+    margin-left: 800px;
+    top: 135px;
+    color: #8e8e93;
+  }
+  .details p2 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    height: 19px;
+    line-height: 120%;
+    margin-left: 800px;
+    top: 180px;                 
+  }
+  .details b {
+    color: red;
+  }
+  .details input {
+    position: absolute;
+    margin-left: 800px;
+    top: 205px;
+    padding: 10px;
+    padding-right: 150px;
+    border-radius: 5px;
+    color: grey;
+    border-color: grey;
+  }
+  .details p3 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    height: 19px;
+    line-height: 120%;
+    margin-left: 800px;
+    top: 270px;
+  }
+  .email input {
+    position: absolute;
+    top: 295px;
+    padding: 10px;
+    padding-right: 150px;
+    border-radius: 5px;
+    color: grey;
+    border-color: grey;
+  }
+  .password p{
+     position: absolute;  
+    font-weight: 400;
+    font-size: 16px;
+    height: 19px;
+    line-height: 120%;
+    margin-left: 800px;
+    top: 360px; 
+  }
+  .password input{
+    position: absolute;
+    margin-left: 800px;
+    top: 385px;
+    padding: 10px;
+    padding-right: 150px;
+    border-radius: 5px;
+    color: grey;
+    border-color: grey;
+  }
+  .login-btn {
+    position: absolute;
+    margin-left: 800px;
+    top: 450px;
+  }
+  .login-btn button {
+    padding: 16px;
+  
+    padding-right: 305px;
+  
+    text-align: center;
+    border-radius: 100px;
+    background-color: #f3bd00;
+    border-color: #f3bd00;
+    cursor: pointer;
+  }
+  .login-btn p {
+    position: absolute;
+    top: 10px;
+    left: 145px;
+  }
+  .google-btn {
+    position: absolute;
+    margin-left: 800px;
+    top: 510px;
+  }
+  .google-btn button {
+    padding: 20px;
+    padding-right: 305px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: white;
+    filter: drop-shadow(10px 10px 7px rgba(0, 0, 0, 0.6));
+    cursor: pointer;
+  }
+  .google-btn p {
+    position: absolute;
+    top: 15px;
+    left: 100px;
+  }
+  .google-btn img {
+    position: absolute;
+    top: 9px;
+    left: 60px;
+  }
+  .accept-terms{
+    position: absolute;
+    margin-left: 800px;
+    top:580px;
+    display: flex;
+    width: 300px;
+    left: 80px;
+    font-size:x-small;
+    
+}
+.accept-terms p{
+    position: relative;
+    left: 10px;
+}
+.accept-terms p1{
+    position: absolute;
+    left: 65px;
+    color: #0948B4;
+}
+.login p {
+    position: absolute;
+    margin-left: 800px;
+    top: 610px;
+    left: 65px;
+    font-size: 16px;
+    font-weight: 400;
+    color: grey;
+    width: 200px;
+  }
+  .login p1 {
+    color: blue;
+    cursor: pointer;
+    position: relative;
+    left: 5px; 
+  }
