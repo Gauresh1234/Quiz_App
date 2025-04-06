@@ -9,7 +9,7 @@
     top: 100px;
     margin-left: 100px;
   }
-  .details h2 {
+  .details h1 {
     position: absolute;
     height: 38px;
     width: 200px;
@@ -17,7 +17,7 @@
     top: 90px;
     font-weight: 700;
     font-size: 32px;
-    line-height: 120%;
+    
     color: #1c1c1e;
   }
   .details p1 {
