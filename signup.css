@@ -87,12 +87,12 @@
     color: grey;
     border-color: grey;
   }
-  .login-btn {
+  .signup{
     position: absolute;
     margin-left: 800px;
     top: 450px;
   }
-  .login-btn button {
+  .signup button {
     padding: 16px;
   
     padding-right: 305px;
@@ -103,7 +103,7 @@
     border-color: #f3bd00;
     cursor: pointer;
   }
-  .login-btn p {
+  .signup p {
     position: absolute;
     top: 10px;
     left: 145px;

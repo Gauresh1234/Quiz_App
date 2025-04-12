@@ -37,6 +37,7 @@
   line-height: 120%;
   margin-left: 800px;
   top: 210px;
+  
 }
 .details b {
   color: red;
@@ -50,6 +51,7 @@
   border-radius: 5px;
   color: grey;
   border-color: grey;
+  width: 13%;
 }
 .details p3 {
   position: absolute;
@@ -68,6 +70,7 @@
   border-radius: 5px;
   color: grey;
   border-color: grey;
+  width: 13%;
 }
 .login-btn {
   position: absolute;
